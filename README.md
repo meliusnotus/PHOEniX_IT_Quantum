@@ -133,11 +133,3 @@ These metrics are used to analyze scalability and the computational cost of quan
 * Support for larger quantum algorithms
 
 ---
-
-## Author
-
-Aadarsh Suvarna
-
-BITS Pilani Hyderabad Campus
-
-Phoenix Association IT Team Induction Task
